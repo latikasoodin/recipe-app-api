@@ -1,0 +1,6 @@
+[flake8]
+excule = 
+    migrations,
+    __pucache__
+    manage.py
+    settings.py
